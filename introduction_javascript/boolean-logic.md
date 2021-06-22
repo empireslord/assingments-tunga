@@ -39,3 +39,15 @@ if(firstvariable){
 1. The value of the third varaible is truthy because it has been defined as `1`.
 
 ## part-3
+1. if(math.random () > 0.5){
+        console.log("over 0.5)
+        }else{
+        conlose.log("under 0.5")
+        } 
+1. A falsey value are any particular value that give a negative reply when used with the conditional statements
+    * NaN
+    * Null
+    * 0
+    * " "
+    * false
+    * Undefined
